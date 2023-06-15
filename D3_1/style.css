@@ -1,0 +1,26 @@
+#floatingTextarea {
+    width: 80vh !important;
+    height: 16vh !important;
+
+}
+
+.form-control{
+    border: 1px solid #0d6efd !important;
+}
+
+.form {
+    width: 40px !important;
+}
+
+.dodo {
+    padding-top: 2% !important;
+}
+
+#q {
+    width: 96% !important;
+}
+
+/* 
+.nav  {
+    width: 210px !important;
+} */
